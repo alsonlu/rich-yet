@@ -1,0 +1,3 @@
+get_daily call
+stock data = {u'5. volume': u'2499293', u'4. close': u'23.7200', u'2. high': u'23.7350', u'1. open': u'23.3200', u'3. low': u'22.6600'}
+metadata = {u'1. Information': u'Daily Prices (open, high, low, close) and Volumes', u'4. Output Size': u'Compact', u'5. Time Zone': u'US/Eastern', u'2. Symbol': u'PTON', u'3. Last Refreshed': u'2019-10-30'}
